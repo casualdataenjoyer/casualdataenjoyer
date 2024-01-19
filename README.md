@@ -1,5 +1,8 @@
 Hello World, my name is Joel
-Currently working on Codecademy's Data Scientist: Machine Learning specialisation
+
+Currently working on:
+- Codecademy's Data Scientist: Machine Learning specialisation
+- Coursera's Machine Learning Engineering for Production (MLOps) Specialization by Andrew Ng
 
 Passionate about data, insights, optimisation, and AI.
 
