@@ -1,6 +1,6 @@
-Hello World, my name is Joel
+Hello World, my name is Joel :)
 
-Passionate about Big Data, insights, optimisation, and AI
+I'm passionate about Big Data, insights, optimisation, and machine learning
 
 Currently working on:
 - Codecademy's Data Scientist: Machine Learning specialisation
